@@ -1,17 +1,13 @@
 # Merhaba, ben Ahmet Yasin 👋
 
-Sistem mimarisi ve bilgisayar mühendisliği üzerinde çalışan bir geliştiriciyim. Kodun sadece çalışmasına değil, aynı zamanda sistem kaynaklarını en verimli şekilde kullanmasına önem veririm. Mühendisliği bir zanaat olarak ele alıp, düşük seviyeli disiplinleri modern teknolojilerle harmanlıyorum.
+Henüz lise eğitimi gören bir geliştiriciyim. Hedefim IOI'da altın madalya almak ve ODTÜ'de Bilgisayar Mühendisliği okumak. Şu an yazılım dillerindeki bilgilerimi genişletiyorum ve birkaç büyük proje planlıyorum.
 
 ### 🛠 Teknik Odak Noktalarım
-- **Mimari:** Ölçeklenebilir sistem tasarımları ve mikroservis mantığı.
-- **Düşük Seviye:** C/C++ temelli sistem optimizasyonları ve bellek yönetimi.
-- **Vizyon:** *"The Persistence of C"* - Sistemin çekirdek prensiplerine sadık kalarak gelecek teknolojileri inşa etmek.
+-**Sistem İşleyişi** Clean code mümkün değilse bile *az ama öz* işleyişiyle verimli ve hızlı kodlar üretmeyi hedeflerim.
+-**Üreticilik** Hazır almaktan ziyade hep üretmeye yönelirim; hem gelişir, hem de yeni fikirler ortaya çıkarırım.
 
 ### 🔬 Nelerle İlgileniyorum?
-- **Performans:** Karmaşık algoritmaların performans analizleri ve sistem verimliliği.
+- **Olimpiyatlar:** Karmaşık algoritmalar ve matematik.
 - **Geleceğin Mobilitesi:** Otonom ve Elektrikli Araç sistemleri üzerine çalışmalar.
 - **Oyun Geliştirme:** Performans odaklı oyun motorları ve proje süreçleri.
 - **Mimari Dokunuşlar:** Sistemlerin çalışma verimliliğini artıran yapısal iyileştirmeler.
-
----
-> *"Mühendislikte verimlilik bir seçenek değil, bir zorunluluktur."*
